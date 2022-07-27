@@ -1,0 +1,22 @@
+.nav {
+    margin-left: auto;
+}
+
+.nav__list-item {
+    display: flex;
+}
+
+.nav__list {
+    display: flex;
+    margin: 0;
+    padding: o;
+    list-style: none;
+}
+
+.nav__list-item {
+    margin-right: 33px;
+}
+
+.nav__link {
+    color: $och;
+}

@@ -1,0 +1,8 @@
+.intro {
+    @include box;
+    background-image: url(../../img/Bitmap.png)
+}
+
+.intro__link {
+    @include link;
+}
